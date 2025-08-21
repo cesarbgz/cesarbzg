@@ -6,7 +6,8 @@
 
 ## 🚀 Sobre mí
 - 🔭 Actualmente trabajando en **Xeridia**  
-- 📱 Desarrollando mi **TFG**: una app Android en **Kotlin** para ayudar a personas con bruxismo  
+- 📱 Desarrollando mi **TFG**: una app Android en **Kotlin** para ayudar a personas con bruxismo
+- 🔎 Interesado en proyectos de **ciberseguridad, aplicaciones móviles y AI** 
 
 ---
 
